@@ -72,16 +72,16 @@ class AddVehicleScreenWidget extends StatelessWidget {
                                         mainAxisAlignment:
                                             MainAxisAlignment.start,
                                         children: [
-                                          // CustomImageView(
-                                          //   imagePath:
-                                          //       ImageConstant.img35587842613665,
-                                          //   height: getVerticalSize(
-                                          //     32,
-                                          //   ),
-                                          //   width: getHorizontalSize(
-                                          //     170,
-                                          //   ),
-                                          // ),
+                                          CustomImageView(
+                                            imagePath:
+                                                ImageConstant.img35587842613665,
+                                            height: getVerticalSize(
+                                              32,
+                                            ),
+                                            width: getHorizontalSize(
+                                              170,
+                                            ),
+                                          ),
                                           Padding(
                                             padding: getPadding(
                                               left: 2,
