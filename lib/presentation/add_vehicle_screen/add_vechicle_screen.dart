@@ -89,38 +89,38 @@ class AddVehicleScreenWidget extends StatelessWidget {
                                             ),
                                             child: Row(
                                               children: [
-                                                // Padding(
-                                                //   padding: getPadding(
-                                                //     top: 6,
-                                                //     bottom: 4,
-                                                //   ),
-                                                //   child: Text(
-                                                //     "Powered by",
-                                                //     overflow:
-                                                //         TextOverflow.ellipsis,
-                                                //     textAlign: TextAlign.left,
-                                                //     style: theme
-                                                //         .textTheme.labelMedium,
-                                                //   ),
-                                                // ),
-                                                // CustomImageView(
-                                                //   imagePath:
-                                                //       ImageConstant.imgVrm,
-                                                //   height: getVerticalSize(
-                                                //     24,
-                                                //   ),
-                                                //   width: getHorizontalSize(
-                                                //     93,
-                                                //   ),
-                                                //   radius: BorderRadius.circular(
-                                                //     getHorizontalSize(
-                                                //       3,
-                                                //     ),
-                                                //   ),
-                                                //   margin: getMargin(
-                                                //     left: 6,
-                                                //   ),
-                                                // ),
+                                                Padding(
+                                                  padding: getPadding(
+                                                    top: 6,
+                                                    bottom: 4,
+                                                  ),
+                                                  child: Text(
+                                                    "Powered by",
+                                                    overflow:
+                                                        TextOverflow.ellipsis,
+                                                    textAlign: TextAlign.left,
+                                                    style: theme
+                                                        .textTheme.labelMedium,
+                                                  ),
+                                                ),
+                                                CustomImageView(
+                                                  imagePath:
+                                                      ImageConstant.imgVrm,
+                                                  height: getVerticalSize(
+                                                    24,
+                                                  ),
+                                                  width: getHorizontalSize(
+                                                    93,
+                                                  ),
+                                                  radius: BorderRadius.circular(
+                                                    getHorizontalSize(
+                                                      3,
+                                                    ),
+                                                  ),
+                                                  margin: getMargin(
+                                                    left: 6,
+                                                  ),
+                                                ),
                                               ],
                                             ),
                                           ),
