@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "017ae9adad548b80b4a4b40cc31998f4113b6f7977482b202632e3304cc87f3b"
+build_start_time: [1690006191, 781225000]
+build_end_time: [1690006195, 302604000]
+inputs:
+  "/Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/ios/Runner/AppDelegate.swift": [1689993152, 200629761]

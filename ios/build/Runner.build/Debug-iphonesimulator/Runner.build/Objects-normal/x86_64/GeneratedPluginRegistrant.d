@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Modules/module.modulemap \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-umbrella.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-Swift.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/SqflitePlugin.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Modules/module.modulemap \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/sqflite-umbrella.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/SqfliteCursor.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/SqfliteDatabase.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/SqfliteOperation.h \
+  /Users/prince.jio.tigley/Desktop/OTHERREPO/vehicleapp/build/ios/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/SqfliteImport.h
